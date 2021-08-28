@@ -55,3 +55,4 @@ class ContactStorage: ContactStorageProtocol {
         storage.set(arrayForStorage, forKey: storageKey)
     }
 }
+
